@@ -1,5 +1,6 @@
 from tkinter import *
 
+#GUI
 root = Tk()
 window_title = root.title('Chess Engine')
 title_frame = Frame(root)
